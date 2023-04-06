@@ -1,0 +1,10 @@
+{
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter",
+        "editor.formatOnSave": true,
+    },
+    "files.insertFinalNewline": true,
+    "editor.renderWhitespace": "all",
+    // TODO: turn type checking on to "basic"
+    "python.analysis.typeCheckingMode": "off"
+}
